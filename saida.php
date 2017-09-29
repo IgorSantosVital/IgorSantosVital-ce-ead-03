@@ -38,7 +38,7 @@ $resultado = "Ruim";
 }
 elseif ( $notastotal < 60){
 $resultado = "Péssimo";
-$nao = "<span class='nao'> NÂO</span>";
+$nao = "<span class='nao'> NÃO</span>";
 }
 
 
