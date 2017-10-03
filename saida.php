@@ -54,13 +54,12 @@ $nao = "<span class='nao'> NÃO</span>";
 <center>
     <img src=<?php echo '"'.$linkimagem.'"' ?> title=<?php echo '"'.$nomefacul.'"' ?> alt='Faculdade' width="420">
     <h1><?php echo $decl ?></h1>
-</center>
 <hr>
 <p>
     Declaramos, para os devido fins, que <?php echo $aluno ?> <span class="nao"><?php echo $nao ?></span> concluiu satisfatoriamente as atividades da 
     disciplina <?php echo $disciplina ?> do Curso <?php echo $curso ?>.<br><br>
     Segue o desempenho de <?php echo $aluno ?>:
-</p>
+</p></center>
 <br>
 <center>
 <table border="1">
