@@ -57,7 +57,7 @@ $nao = "<span class='nao'> NÃO</span>";
 </center>
 <hr>
 <p>
-    Declaramos, para os devido fins, que <?php echo $aluno.' '.$nao ?> concluiu satisfatoriamente as atividades da 
+    Declaramos, para os devido fins, que <?php echo $aluno ?> <span class="nao"><?php echo $nao ?></span> concluiu satisfatoriamente as atividades da 
     disciplina <?php echo $disciplina ?> do Curso <?php echo $curso ?>.<br><br>
     Segue o desempenho de <?php echo $aluno ?>:
 </p>

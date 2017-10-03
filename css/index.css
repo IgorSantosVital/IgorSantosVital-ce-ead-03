@@ -1,11 +1,12 @@
 .resultado {
-    font: small-caps;
-    color: red;
-        
+    font-style: oblique;      
 }
 
 .pontos {
-    
+    font-weight: bold;
 }
 
-.nao
+.nao {
+    color: red;
+    text-transform: uppercase;
+}
