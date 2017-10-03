@@ -80,13 +80,13 @@ $nao = "<span class='nao'> NÃO</span>";
         <tr>
             <td>Prova 2</td>
             <td>25</td>
-            <td><?php echo $va1 ?></td>
+            <td><?php echo $va2 ?></td>
             <td><?php echo calc ($va2,25) ?></td>
         </tr>
         <tr>
             <td>Prova 3</td>
             <td>35</td>
-            <td><?php echo $va1 ?></td>
+            <td><?php echo $va3 ?></td>
             <td><?php echo calc ($va3,35) ?></td>
         </tr>
         <tr>
